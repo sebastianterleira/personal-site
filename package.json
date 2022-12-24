@@ -1,0 +1,27 @@
+{
+  "name": "personal-site",
+  "description": "Conmtentz Website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:paulotijero/personal-site.git",
+  "author": "Paulo Tijero <paulotijero@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "watch \"npm run build\" articles pages",
+    "build.dev": "node ../contentz/cli.js build",
+    "build": "contentz build",
+    "prebuild": "rm -rf public && npm install",
+    "social:dev": "node ../contentz/cli.js social",
+    "social": "contentz social",
+    "write": "contentz write",
+    "start": "serve public -p 3000"
+  },
+  "dependencies": {
+    "@contentz/build": "^1.0.2",
+    "@contentz/social": "^3.14.1",
+    "contentz": "^3.14.1"
+  },
+  "devDependencies": {
+    "serve": "^14"
+  }
+}
