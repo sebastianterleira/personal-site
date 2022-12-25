@@ -1,4 +1,76 @@
 ---
-- url: https://url.example
-  title: Title Example ✨
-  comment: This is a comment example
+- url: https://jamstack.training/
+  title: JAMSTACK Training ✨
+  comment: Aprende más sobre el Jamstack con estos cursos gratuitos
+- url: https://launchschool.com/books
+  title: "Launch School: Open book shelf 📖"
+  comment: Los libros adoptan un enfoque muy amigable para principiantes y son adecuados para cualquier nivel.
+- url: https://www.executeprogram.com/courses
+  title: "Execute Program: Learn javascript topics 💊"
+  comment: TypeScript, expresiones regulares, JavaScript moderno, simultaneidad de JavaScript, ¡y más!
+- url: https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+  title: How to think like a programmer 🧑‍💻
+  comment: Después de leer este artículo te gustará meterte en problemas.
+- url: https://rauchg.com/2014/7-principles-of-rich-web-applications/
+  title: 7 Principles of Rich Web Applications 🔬
+  comment: Cómo mejorar la experiencia del usuario en nuestro sitio web.
+- url: https://www.dataart.com.ar/news/junior-middle-senior-lead-what-s-the-difference/
+  title: Junior, Middle, Senior, Lead - what's the difference? 🤔
+  comment: Alexander Demura comparte sus puntos de vista sobre la "antigüedad" del personal y las cualidades necesarias para un puesto en particular
+- url: https://thoughtbot.com/blog/sandi-metz-rules-for-developers
+  title: Ruby & Rails Developer Rules 💎
+  comment: Sandi Metz presenta sus reglas para desarrolladores.
+- url: https://overreacted.io/a-complete-guide-to-useeffect/
+  title: A complete guide to React useEffect ⚛️
+  comment: useEffect de cero a héroe
+- url: https://dev.to/camerenisonfire/10-intriguing-public-rest-apis-for-your-next-project-2gbd
+  title: 10 Intriguing Public REST APIs For Your Next Project 🚧
+  comment: El mejor lugar para comenzar es simplemente obtener y mostrar datos
+- url: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
+  title: How to Contribute to an Open Source Project on GitHub 😍
+  comment: Curso de cómo contribuir al código abierto
+- url: http://orta.io/vscode-themes/
+  title: Visual Studio Code Themes 🎨
+  comment: Esta es la lista completa de temas.
+- url: https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/
+  title: Dark Git Commants 🖤
+  comment: Flujo de trabajo para salvar tu vida
+- url: https://dev.to/perborgen/learn-react-in-5-minutes-3bnd
+  title: Learn React in 5 Minutes 🤯
+  comment: Un tutorial rápido de React para comenzar con el popular JS
+- url: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+  title: Salary Negotiation 💸
+  comment: Hacer más dinero, ser más valorado
+- url: https://flukeout.github.io/
+  title: CSS Diner 🍱
+  comment: De Cero a Héroe con CSS Diner
+- url: https://flexboxfroggy.com/#es
+  title: Flexbox Froggy 🐸
+  comment: Aprende CSS Flexbox con Froggy
+- url: https://cssgridgarden.com/#es
+  title: Grid Garden 🥕
+  comment: Aprende CSS Grid en tu jardín
+- url: https://mdxjs.com/
+  title: MDX 📔
+  comment: JSX en Markdown para proyectos ambiciosos
+- url: https://www.makeareadme.com/
+  title: Make a Readme 📑
+  comment: ¿Cómo se crea un archivo Léame? ¡Esta es la respuesta!
+- url: https://commonmark.org/help/tutorial/
+  title: Markdown Tutorial 🤓
+  comment: Aprende el lenguaje Markdown con gamificación
+- url: https://joedicastro.com/pages/markdown.html
+  title: Markdown & Pygments Lexers Cheat Sheet 📕
+  comment: Esta es una increíble guía de rebajas.
+- url: https://www.youtube.com/watch?v=DUg2SWWK18I
+  title: MVC Explained in 4 Minutes ⚡
+  comment: MVC es la arquitectura más popular para construir servidores web complejos.
+- url: https://github.com/rzashakeri/beautify-github-profile?ref=producthunt
+  title: Beautify Github Profile 🎨
+  comment: Si quieres que el aspecto de tu perfil de github sea más hermoso, esta guía te ayudara en ello.
+- url: https://dmitripavlutin.com/javascript-this-interview-questions/
+  title: 7 Interview Questions on "this" keyword in JavaScript. Can You Answer Them? 💊
+  comment: En JavaScript "this" tiene un comportamiento complicado, con este articulo pondras a prueba tu manejo con "this" y mejoraras tu entendimiento sobre "this".
+- url: https://medium.com/@hugo.roca/javascript-c%C3%B3mo-empezar-a-usar-map-filter-y-reduce-241defaa47fe
+  title: Javascript — Cómo empezar a usar .map() .filter() y reduce() 🎃
+  comment: Antes me costaba usar map() ya que siempre usaba solo los forEach "porque me habia acostumbrado a su uso" dinggg error eso esta mal desde un principio, y este es un buen articulo para poder aprender a como darle un buen uso a estos metodos de JavaScript.
