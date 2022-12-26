@@ -3,7 +3,7 @@
   "description": "Contentz Website",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:SebastianTerleira/personal-site.git",
+  "repository": "git@github.com:sebastianterleira/personal-site.git",
   "author": "Sebastian Terleira <seb.terleira1204@gmail.com>",
   "license": "MIT",
   "scripts": {
