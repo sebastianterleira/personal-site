@@ -1,9 +1,9 @@
 ---
 title: Sebastián Terleira
 description: Junior FullStack Web Developer, Escritor Técnico iniciante
-domain: https://sebastianterleira.com
+domain: https://sebastianterleira.dev
 language: es
-repository: https://github.com/sebastianterleira/sebastianterleira.github.io
+repository: https://github.com/sebastianterleira/personal-site
 email: seb.terleira1204@gmail.com
 social:
   twitter: SebastianTerlei
@@ -12,6 +12,6 @@ social:
 icon: /static/icon-website.png
 navigation:
   - name: Bio
-    path: /public/about/
+    path: /about/
 incremental: false # Change to `true` if your server support keeping `.cache` and `public` folders
 analytics: UA-138758078-1

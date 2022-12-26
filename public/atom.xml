@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Sebastián Terleira - Articles</title>
-    <link href="https://sebastianterleira.github.io/personal-site/" rel="self"/>
-    <link href="https://sebastianterleira.github.io/personal-site/"/>
-    <updated>1672084552261</updated>
-    <id>https://sebastianterleira.github.io/personal-site/</id>
+    <link href="https://sebastianterleira.dev" rel="self"/>
+    <link href="https://sebastianterleira.dev"/>
+    <updated>1672091424657</updated>
+    <id>https://sebastianterleira.dev</id>
     <author>
       <name>Sebastián Terleira</name>
       <email>seb.terleira1204@gmail.com</email>
@@ -12,12 +12,12 @@
       <entry>
         <id>Article test</id>
         <title>Article test</title>
-        <link href="https://sebastianterleira.github.io/personal-site//articles/article-test/"/>
+        <link href="https://sebastianterleira.dev/articles/article-test/"/>
         <updated>2022-12-26T00:30:35.339Z</updated>
         <content type="xhtml">
           <div xmlns="http://www.w3.org/1999/xhtml">
             <p>Article description</p>
-            <a href="https://sebastianterleira.github.io/personal-site//articles/article-test/">Read Article</a>
+            <a href="https://sebastianterleira.dev/articles/article-test/">Read Article</a>
           </div>
         </content>
         <author>
