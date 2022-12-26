@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Sebastián Terleira - Articles</title>
+    <link href="https://sebastianterleira.dev" rel="self"/>
+    <link href="https://sebastianterleira.dev"/>
+    <updated>1672067105122</updated>
+    <id>https://sebastianterleira.dev</id>
+    <author>
+      <name>Sebastián Terleira</name>
+      <email>seb.terleira1204@gmail.com</email>
+    </author>
+      <entry>
+        <id>Article test</id>
+        <title>Article test</title>
+        <link href="https://sebastianterleira.dev/articles/article-test/"/>
+        <updated>2022-12-26T00:30:35.339Z</updated>
+        <content type="xhtml">
+          <div xmlns="http://www.w3.org/1999/xhtml">
+            <p>Article description</p>
+            <a href="https://sebastianterleira.dev/articles/article-test/">Read Article</a>
+          </div>
+        </content>
+        <author>
+          <name>Sebastián Terleira</name>
+          <email>seb.terleira1204@gmail.com</email>
+        </author>
+      </entry>
+  </feed>
