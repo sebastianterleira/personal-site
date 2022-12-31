@@ -3,21 +3,21 @@
     <title>Sebastián Terleira - Articles</title>
     <link href="https://sebastianterleira.dev" rel="self"/>
     <link href="https://sebastianterleira.dev"/>
-    <updated>1672432582376</updated>
+    <updated>1672463225024</updated>
     <id>https://sebastianterleira.dev</id>
     <author>
       <name>Sebastián Terleira</name>
       <email>seb.terleira1204@gmail.com</email>
     </author>
       <entry>
-        <id>Una pequeña historia</id>
-        <title>Una pequeña historia</title>
-        <link href="https://sebastianterleira.dev/articles/mi-pequeña-historia/"/>
+        <id>Mi historia, mis aprendizajes</id>
+        <title>Mi historia, mis aprendizajes</title>
+        <link href="https://sebastianterleira.dev/articles/mi-historia-mis-aprendizajes/"/>
         <updated>2022-12-26T00:30:35.339Z</updated>
         <content type="xhtml">
           <div xmlns="http://www.w3.org/1999/xhtml">
             <p>Este es mi primer post en este Blog, esta es una pequeña parte de mi historia y mis inicios en la programación.</p>
-            <a href="https://sebastianterleira.dev/articles/mi-pequeña-historia/">Read Article</a>
+            <a href="https://sebastianterleira.dev/articles/mi-historia-mis-aprendizajes/">Read Article</a>
           </div>
         </content>
         <author>
